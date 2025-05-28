@@ -13,7 +13,7 @@ This project explores protein function annotation using deep learning models—C
 - Inception CNN: AUC = 0.808, Accuracy = 0.561, Loss = 0.462
 - CNN: AUC = 0.784, Accuracy = 0.550, Loss = 0.498
 
-Detailed results, figures, and discussion are available in `Report.pdf`.
+Detailed results, figures, and discussion are available in [Report.pdf](https://github.com/krllstdn/protein-function-prediction/blob/main/Report.pdf).
 
 
 
